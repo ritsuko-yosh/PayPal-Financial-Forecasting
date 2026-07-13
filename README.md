@@ -48,4 +48,3 @@ This project forecasts PayPal's financial performance over the next twelve quart
 
 📈 Forecast Charts
 
-🎤 Presentation Slides
